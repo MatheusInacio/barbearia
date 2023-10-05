@@ -71,3 +71,9 @@ nav a {
   font-size: 22px;
   text-decoration: none;
 }
+
+.caixa {
+  width: 940px;
+  position: relative;
+  margin: auto;
+}
