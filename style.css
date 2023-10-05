@@ -72,8 +72,11 @@ nav a {
   text-decoration: none;
 }
 
-.caixa {
+.container {
   width: 940px;
-  position: relative;
   margin: auto;
+}
+
+header div.container {
+  display: flex;
 }
