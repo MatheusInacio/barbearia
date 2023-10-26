@@ -119,3 +119,7 @@ header div.container {
 header ul li a:hover {
   color: gold;
 }
+
+.produtos li img {
+  max-width: 250px;
+}
