@@ -126,8 +126,9 @@ header ul li a:hover {
 
 footer {
   text-align: center;
-  background: url("https://matheusinacio.github.io/barbearia/bg.jpg");
   padding: 40px 0;
+  background: grey;
+  margin-top: 50px;
 }
 
 .copyright {
