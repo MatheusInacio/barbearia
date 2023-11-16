@@ -26,6 +26,7 @@ em strong {
   width: 100%;
   margin-top: 20px;
   margin-bottom: 20px;
+  border-radius: 10px;
 }
 
 #missao {
@@ -43,6 +44,7 @@ em strong {
 .imagembeneficios {
   width: 40%;
   float: right;
+  border-radius: 10px;
 }
 
 header {
