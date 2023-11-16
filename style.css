@@ -32,15 +32,16 @@ em strong {
   font-size: 20px;
 }
 
-/* 
-ul {
+.beneficios ul {
+  display: flex;
+}
+
+.beneficios ul {
   display: inline-block;
-  vertical-align: top;
-  margin-right: 15%;
-} */
+} 
 
 .imagembeneficios {
-  width: 50%;
+  width: 40%;
   float: right;
 }
 
